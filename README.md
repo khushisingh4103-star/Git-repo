@@ -1,2 +1,8 @@
-# Git-repo
-Khushi Singh
+In the first program 2 variables 'num1' & 'num2' are created to take 2 numerical inputs from the user. 
+4 more variables a, m, s, d are created for mathematical operations and to store the result of these operations.
+And then if condition is used to check whether the second numerical input is non-zero or not. 
+Lastly, values of all 4 variables created for storing result of mathematical operations are printed as an output.
+
+In the second program 2 variables 'f_n' & 'l_n' are created to store 2 string inputs taken from the user.
+After this another variable 'full_name' is created to store the result of concatenation of 2 string inputs entered by the user.
+Finally greeting message is printed as an output. 
